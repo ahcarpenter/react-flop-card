@@ -2,8 +2,8 @@
   "name": "react-flop-card",
   "version": "0.1.0",
   "engines": {
-    "node": "~4.4.3",
-    "npm": "~3.8.8"
+    "node": ">=4.4.3",
+    "npm": ">=3.8.8"
   },
   "description": "Card component with flip animation implement in React Motion",
   "scripts": {
